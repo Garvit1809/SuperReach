@@ -4,3 +4,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/Garvit1809/SuperReach-Server
+[submodule "client2"]
+	path = client2
+	url = https://github.com/Garvit1809/SuperReach-Client
